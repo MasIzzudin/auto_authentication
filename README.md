@@ -58,3 +58,4 @@ Sample App Auth is app auth with React Native and NodeJS API that support userna
 4. and the last after you push your app to heroku , type ‘ heroku open ‘ in your terminal window without quotation marks so with that command will open your browser and open your application
 
 ### after doing this command you do not need to run the server, every open application
+`note: change apiUrl in /src/utils/apiUrl.js with your server after you deploy`
