@@ -42,12 +42,12 @@ Sample App Auth is app auth with React Native and NodeJS API that support userna
 
 `note: change apiUrl in /src/utils/apiUrl.js with your local ip address and port server nodeJS`
 
-1. Deploying Node js App to Heroku
+### Deploying Node js App to Heroku
 - if you have not registered yet, please do that and login to HEROKU, 
 - click here to register https://dashboard.heroku.com
 - after that
 - do the following to deploy your application to node js.
-- click new and Create new app
+1. click new and Create new app
 ![1](https://user-images.githubusercontent.com/28797238/34403390-7a6cc008-ebda-11e7-9372-ea2de5f73ea5.png)
 
 2. enter project name and press create app 
